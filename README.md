@@ -1,4 +1,4 @@
-*Daily Coding Challenges*
+# *Daily Coding Challenges*
 
 Welcome to the Daily Coding Challenges repository! This repository is dedicated to daily coding challenges, algorithms, projects, and tasks. It is organized into different folders for each category, making it easy to navigate and contribute.
 
