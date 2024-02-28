@@ -1,0 +1,103 @@
+Questions
+
+
+1. Reverse a string.
+2. Check if a string is a palindrome.
+3. Implement a function to calculate the factorial of a number.
+4. Find the largest element in an array.
+5. Implement binary search in a sorted array.
+6. Count the number of occurrences of each character in a string.
+7. Determine whether a number is prime.
+8. Implement a linked list.
+9. Reverse a linked list.
+10. Find the intersection point of two linked lists.
+11. Implement a stack using arrays/linked list.
+12. Implement a queue using arrays/linked list.
+13. Check if a given string has balanced parentheses.
+14. Implement a basic calculator to evaluate arithmetic expressions.
+15. Find the second largest element in an array.
+16. Rotate an array to the right by k steps.
+17. Write a program to sort an array using bubble sort.
+18. Implement quicksort algorithm.
+19. Implement merge sort algorithm.
+20. Remove duplicates from a sorted/unsorted array.
+21. Find the missing number in an array of 1 to N.
+22. Check if two strings are anagrams.
+23. Implement a basic calculator to perform basic arithmetic operations.
+24. Implement a binary tree and its traversal (in-order, pre-order, post-order).
+25. Find the lowest common ancestor in a binary tree.
+26. Check if a binary tree is a binary search tree (BST).
+27. Serialize and deserialize a binary tree.
+28. Find the maximum depth of a binary tree.
+29. Implement a trie data structure.
+30. Find the shortest path in a maze.
+31. Implement Dijkstra's algorithm.
+32. Implement Breadth-First Search (BFS) for a graph.
+33. Implement Depth-First Search (DFS) for a graph.
+34. Detect a cycle in a directed/undirected graph.
+35. Find the topological order of a directed graph.
+36. Calculate the Fibonacci sequence using recursion.
+37. Calculate the Fibonacci sequence using dynamic programming.
+38. Find the longest common subsequence of two strings.
+39. Implement a basic regular expression matcher.
+40. Implement atoi (string to integer) function.
+41. Implement strstr (substring search) function.
+42. Determine if a Sudoku is valid.
+43. Implement a basic calculator to evaluate expressions with parentheses.
+44. Implement a basic calculator to convert infix to postfix expression.
+45. Implement a basic calculator to evaluate postfix expressions.
+46. Implement the LRU (Least Recently Used) cache algorithm.
+47. Implement the producer-consumer problem.
+48. Implement a basic HTTP server.
+49. Implement a basic HTTP client.
+50. Implement a REST API with CRUD operations.
+51. Implement a simple chat application.
+52. Implement a basic web scraper.
+53. Implement a basic recommendation system.
+54. Implement a basic neural network from scratch.
+55. Implement K-means clustering algorithm.
+56. Implement a binary search in a rotated sorted array.
+57. Determine if a given linked list has a cycle.
+58. Find the starting point of the cycle in a linked list.
+59. Implement an algorithm to detect a cycle in an undirected graph.
+60. Implement a weighted directed graph and calculate the shortest path using Bellman-Ford algorithm.
+61. Implement a priority queue.
+62. Implement a max heap or min heap.
+63. Implement an algorithm to check if a graph is a tree.
+64. Implement an algorithm to find the diameter of a binary tree.
+65. Implement an algorithm to check if a tree is balanced.
+66. Implement an algorithm to find the maximum subarray sum.
+67. Implement an algorithm to find the longest increasing subsequence in an array.
+68. Implement an algorithm to find the longest common prefix in an array of strings.
+69. Implement an algorithm to find the shortest supersequence of two strings.
+70. Implement an algorithm to find the longest substring without repeating characters.
+71. Implement an algorithm to check if a given binary tree is a subtree of another binary tree.
+72. Implement an algorithm to find the intersection of two arrays.
+73. Implement an algorithm to find the majority element in an array.
+74. Implement an algorithm to check if a number is a power of two.
+75. Implement an algorithm to find the peak element in an array.
+76. Implement an algorithm to find the median of two sorted arrays.
+77. Implement an algorithm to count set bits in an integer.
+78. Implement an algorithm to multiply two numbers without using the multiplication operator.
+79. Implement an algorithm to calculate the power of a number.
+80. Implement an algorithm to find the square root of a number.
+81. Implement an algorithm to convert a decimal number to binary.
+82. Implement an algorithm to convert a binary number to decimal.
+83. Implement an algorithm to reverse bits of an integer.
+84. Implement an algorithm to calculate the GCD (Greatest Common Divisor) of two numbers.
+85. Implement an algorithm to calculate the LCM (Least Common Multiple) of two numbers.
+86. Implement an algorithm to generate all permutations of a string.
+87. Implement an algorithm to generate all combinations of a string.
+88. Implement an algorithm to check if a Sudoku has a unique solution.
+89. Implement an algorithm to find the longest palindromic substring.
+90. Implement an algorithm to perform matrix multiplication.
+91. Implement an algorithm to find the kth smallest/largest element in an array.
+92. Implement an algorithm to find the celebrity in a party.
+93. Implement an algorithm to convert a Roman numeral to an integer.
+94. Implement an algorithm to convert an integer to a Roman numeral.
+95. Implement an algorithm to find the longest word in a dictionary formed by deleting some characters of the given string.
+96. Implement an algorithm to find the longest increasing subsequence in a 2D matrix.
+97. Implement an algorithm to solve the N-Queens problem.
+98. Implement an algorithm to find the maximum sum rectangle in a 2D matrix.
+99. Implement an algorithm to find the shortest path in a weighted directed acyclic graph (DAG).
+100. Implement an algorithm to find the longest path in a weighted directed acyclic graph (DAG).
